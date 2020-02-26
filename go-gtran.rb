@@ -1,4 +1,4 @@
-class Gtran < Formula
+class GoGtran < Formula
   desc "Google translate CLI"
   homepage "https://github.com/skanehira/gtran"
   url "https://github.com/zeero/gtran/archive/0.0.1.tar.gz"

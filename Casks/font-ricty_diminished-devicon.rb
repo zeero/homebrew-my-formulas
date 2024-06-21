@@ -3,7 +3,7 @@ cask 'font-ricty_diminished-devicon' do
   sha256 '5ef03149bb7fcf6cbb9c07feb4df651a4079455870f7a572cda0d0426458c9f6'
 
   url "https://github.com/zeero/RictyDiminished/archive/#{version}-devicon.tar.gz"
-  appcast 'https://github.com/zeero/RictyDiminished/releases.atom'
+  # appcast 'https://github.com/zeero/RictyDiminished/releases.atom'
   name 'Fork Ricty Diminished devicon'
   homepage 'https://github.com/edihbrandon/RictyDiminished'
 
